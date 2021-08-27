@@ -1,4 +1,4 @@
-# Adaptive-Type-2-Fuzzy-Approach-for-Filtering-Salt-and-Pepper-Noise-in-Grayscale-Images
+# Adaptive Type-2 Fuzzy Approach for Filtering Salt and Pepper Noise in Grayscale Images
 For removal of highly dense Salt and pepper noise the type 2 fuzzy based adaptive filter is designed. First layer of fuzzy type 2 approach is the type 1 fuzzy logic applied on neighbourhood of pixel.
 GMF is used as membership function for this purpose. Parameters of which are dependent on pixel value and men of k middle applied for window size.
 two approaches are specified\ A) distinct mean and same variance B) distinct mean and distinct variance.
